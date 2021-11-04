@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{8D2FB9AB-4881-EC8B-1936-5BFEC043EB95}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Tour_Manager.cs">
+    <Files>
+      <File FileName="Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARTrackedImageManager.cs" Line="7" Column="38" />
+      <File FileName="Assets/Tour_Manager.cs" Line="24" Column="6" />
+      <File FileName="Assets/GuideVideoManager.cs" Line="40" Column="22" />
+      <File FileName="Assets/Floor_Interaction.cs" Line="44" Column="65" />
+      <File FileName="Assets/Scripts/ImageTracking.cs" Line="48" Column="58" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="669240c4-f051-480c-a97a-a9222b67deea" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

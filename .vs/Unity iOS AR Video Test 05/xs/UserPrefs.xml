@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{F4B0D4E7-8439-AB2E-9571-BC02C3BA69BD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ImageTracking.cs">
+    <Files>
+      <File FileName="Assets/NewBehaviourScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ImageTracking.cs" Line="11" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1a52da6a-9be3-4d66-a04a-b3a75fdac047" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

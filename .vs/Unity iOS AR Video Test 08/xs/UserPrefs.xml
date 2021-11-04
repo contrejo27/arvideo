@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{96FCD10F-7E90-7EFB-A411-DDF0DDE25A6F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TestRotation.cs">
+    <Files>
+      <File FileName="Assets/TestRotation.cs" Line="26" Column="1" />
+      <File FileName="Assets/Scripts/ARMuseumGuide.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7b8becf8-1a39-4b97-87a2-84483ffe3d96" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

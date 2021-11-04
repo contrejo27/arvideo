@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MultipleImageTracker.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MultipleImageTracker.cs" Line="7" Column="50" />
+      <File FileName="Assets/Scripts/ARMuseumGuide.cs" Line="7" Column="5" />
+      <File FileName="../Desktop/UnityProjects/UnityARFoundationEssentials-master/Assets/Scripts/TrackedImageInfoMultipleManager.cs" Line="6" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5ddf3734-0d3f-4339-b433-118552e2f0fc" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
